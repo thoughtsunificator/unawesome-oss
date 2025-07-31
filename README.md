@@ -8,3 +8,4 @@
 - https://github.com/kovidgoyal/kitty
 - https://gitlab.gnome.org/GNOME/gtk/-/merge_requests/4829
 - https://gameworldobserver.com/2023/09/14/unity-license-terms-github-repo-removed-retroactive-changes
+- https://github.com/X11Libre/xserver/blob/master/HISTORY.md
