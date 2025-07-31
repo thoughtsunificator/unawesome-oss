@@ -10,3 +10,4 @@
 - https://gameworldobserver.com/2023/09/14/unity-license-terms-github-repo-removed-retroactive-changes
 - https://github.com/X11Libre/xserver/blob/master/HISTORY.md
 - https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277
+- https://github.com/jsdoc/jsdoc
