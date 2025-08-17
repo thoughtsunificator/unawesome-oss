@@ -10,7 +10,6 @@
 > Malware as an OSS with politics, propaganda, lies, censorship. 
 - https://github.com/amir20/dozzle
 > [ping home to Microsoft from within the container](https://github.com/amir20/dozzle/issues/3589#issuecomment-2628752622)
-- https://github.com/kovidgoyal/kitty
 - https://gitlab.gnome.org/GNOME/gtk/-/merge_requests/4829
 > Gnome closing down their software and trapping their users once again
 - https://gameworldobserver.com/2023/09/14/unity-license-terms-github-repo-removed-retroactive-changes
